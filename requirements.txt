@@ -25,7 +25,6 @@ boto3==1.11.17
 botocore==1.14.17
 branca==0.4.1
 Brotli==1.0.9
-bulb-data-tools==0.2.7
 cachetools==4.1.1
 certifi==2020.6.20
 cffi==1.13.2
