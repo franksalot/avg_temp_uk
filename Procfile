@@ -1,1 +1,2 @@
-web: node dist/server.js
+web:    lein run -m myapp.web
+worker: lein run -m myapp.worker
