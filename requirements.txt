@@ -229,6 +229,7 @@ traitlets==4.3.3
 typed-ast==1.4.1
 typing-extensions==3.7.4.2
 ukpc==0.1.0
+unixodbc==2.3.7
 urllib3==1.25.10
 virtualenv==20.0.30
 virtualenv-clone==0.5.4
